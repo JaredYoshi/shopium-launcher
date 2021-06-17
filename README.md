@@ -3,8 +3,18 @@ aka Shopium GUI, a really nice app to make shopium be 4328742378427347238478 tim
 
 ## FAQ
 
-<p>1. When the launcher is going to be released?<br>
-R: idk, sometimes unexected events forces me to move the release of stuff, so, maybe it will be released between july 10-25.<p>
+1. When the launcher is going to be released?<br>
+R: idk, sometimes unexected events forces me to move the release of stuff, so, maybe it will be released between july 10-25.
 
-<p>2. It will include a installer?<br>
-R: yeah, the installer design will be similar to the [roblox one] https://i.redd.it/yqk4niwbqv5z.png
+2. It will include a installer? <br>
+R: yeah, the installer design will be similar to the [roblox one](https://i.redd.it/yqk4niwbqv5z.png)
+
+3. You will release DevClients for the devs? <br>
+R: yeah
+
+## Current Development Process
+
+<strong>%60</strong>
+
+I almost finished the design, precense, and scripts, just i need make the game select, avatar maker, and the join stuff
+and if its possible, a charapp auto changer by name when join
