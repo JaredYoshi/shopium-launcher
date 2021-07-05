@@ -49,6 +49,7 @@ We may consider and approve other link requests from the following types of orga
 
 commonly-known consumer and/or business information sources;
 dot.com community sites;
+dot.cf community sites;
 associations or other groups representing charities;
 online directory distributors;
 internet portals;
@@ -74,7 +75,7 @@ Content Liability
 We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
 
 Your Privacy
-In Shopium, we care about your privacy, all the IP addresses arent stored or published, all the accounts are private in the Shopium database, Shopium is 100% safe of virus and trusted by +30 antiviruses, any acuse of virus content in the Shopium Website, Launcher, or Game, are fake or false positive.
+In Shopium, we care about your privacy, all the accounts are private in the Shopium database, Shopium is 100% safe of virus and trusted by +30 antiviruses, any acuse of virus content in the Shopium Website, Launcher, or Game, are fake or false positive.
 
 Reservation of Rights
 We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
