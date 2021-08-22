@@ -6,7 +6,7 @@ aka Shopium GUI, a really nice app to make shopium be 4328742378427347238478 tim
 ## FAQ
 
 1. When the launcher is going to be released?<br>
-R: idk, sometimes unexected events forces me to move the release of stuff, so, maybe it will be released between july 10-25.
+R: idk, sometimes unexected events forces me to move the release of stuff, so, maybe it will be released between october 10-25.
 
 2. It will include a installer? <br>
 R: yeah, the installer design will be similar to the [roblox one](https://i.redd.it/yqk4niwbqv5z.png)
