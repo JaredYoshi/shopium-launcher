@@ -18,5 +18,4 @@ R: yeah
 
 <strong>%60</strong>
 
-I almost finished the design, precense, and scripts, just i need make the game select, avatar maker, and the join stuff
-and if its possible, a charapp auto changer by name when join
+Im working in <strong>themes</strong> almost finished the first theme, precense, and scripts, just i need make the game select, avatar maker, and the join stuff, upload has been moved to v4, daily shirts, pants, hats, etc. will be added weekly
