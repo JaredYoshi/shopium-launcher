@@ -1,8 +1,7 @@
-name: Build on Windows
+name: Bzero
 on: push
 jobs:
   build:
     runs-on: windows-latest
     steps:
-      - run: choco install zerotier-one
       - run: zerotier-cli
